@@ -1,0 +1,19 @@
+{
+  "name": "node01-deploy-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "ISC",
+  "author": "dev.maverick",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
