@@ -10,7 +10,7 @@
   "type": "commonjs",
   "main": "main.js",
   "scripts": {
-    "dev": "node main.js"
+    "start": "node main.js"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
